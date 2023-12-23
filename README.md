@@ -17,8 +17,7 @@
 # ⚙️𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 ![2](https://github.com/Hoz0uri/Rust-Menu-AJ/assets/154681705/0a80e793-1194-48da-b3b8-a95d1b2ab32f)
 
-![Uploading 3.jpg…]()
-
+![3](https://github.com/Hoz0uri/Rust-Menu-AJ/assets/154681705/7ed0182c-5b8b-475d-a2f7-1012a4125f0b)
 
 ***🌟ＨＷＩＤ Ｃｈａｎｇｅｒ ＩＮＣＬＵＤＥＤ!***
 
